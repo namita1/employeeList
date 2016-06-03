@@ -1,2 +1,2 @@
 # employeeList
-see documentation [here](http://logicscale.in/LSemployee/#/)
+see output [here](http://logicscale.in/LSemployee/#/)
